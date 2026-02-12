@@ -38,6 +38,20 @@ Grouped into: **Northeast**, **Midwest**, **South**, **West**
 - `.pbix` dashboard (3 pages)
 - One-page summary with key trend & recommendation
 
+**##📷** Dashboard Preview**
+
+ <img width="1448" height="822" alt="image" src="https://github.com/user-attachments/assets/80cb6519-bec5-44f7-a36a-4aee71c6b247" />
+
+ <img width="1466" height="821" alt="image" src="https://github.com/user-attachments/assets/45e84dd1-c813-4dc8-a63f-fd66e064f85f" />
+
+ <img width="1450" height="824" alt="image" src="https://github.com/user-attachments/assets/c38cac06-3285-4ade-8f3e-1fc1becd554a" />
+
+ <img width="1467" height="833" alt="image" src="https://github.com/user-attachments/assets/262d8d02-edc9-46d9-aff4-9b9b6cac72ad" />
+
+ 
+
+
+
 ---
 
 ### 🧩 Author
